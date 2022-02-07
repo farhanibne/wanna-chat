@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Wanna Chat",
+    "slug": "wp-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ion.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"wannachat.chatapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ion.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
