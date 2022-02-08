@@ -14,6 +14,7 @@ import Chats from "./screens/Chats";
 import Photo from "./screens/Photo";
 import { Ionicons } from "@expo/vector-icons";
 import Contacts from "./screens/Contacts";
+
 import Chat from './screens/Chat'
 import ChatHeader from './components/ChatHeader'
 LogBox.ignoreLogs([
